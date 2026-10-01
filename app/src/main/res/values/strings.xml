@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AFK Stepper</string>
+    <string name="accessibility_description">Выполняет короткий настроенный жест через заданный интервал после ручного включения.</string>
+</resources>
